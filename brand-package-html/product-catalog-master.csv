@@ -1,0 +1,51 @@
+sku_id,category,product,variant,pack_size_g_ml,mrp_inr,status,notes
+DT-AJWA-001,Dates,Ajwa Dates,,500g,699,active,From Act 1 hero section
+DT-MEDJ-001,Dates,Medjoul Dates (Majestic),,500g,899,active,From Act 1 hero section
+DT-KALM-001,Dates,Kalmi Dates,,400g,427,active,source: Amazon India ₹426.55/400g rounded (2024-10-19)
+DT-MABR-001,Dates,Mabroom Dates,,400g,699,active,source: Amazon India ₹699/400g (2024-10-19)
+DT-MABR-002,Dates,Mabroom Dates,,800g,1282,active,source: Amazon India ₹1281.55/800g rounded (2024-10-19)
+DT-DEGL-001,Dates,Deglet Nour Dates,,500g,539,active,source: Amazon India ₹539.10/500g rounded (2024-10-19)
+DT-AMER-001,Dates,Ameri Dates,,200g,310,active,source: Zepto ₹310/200g (2024-10-19)
+DT-AMER-002,Dates,Ameri Dates,,400g,799,active,source: BigBasket ₹799/400g (2024-10-19)
+DT-AMER-003,Dates,Ameri Dates,,800g,pending,pending,800g variant exists (FirstCry) but price not confirmed (2024-10-19)
+DT-DERI-001,Dates,Deri Dates,,200g,249,active,From Act 5 pricing check
+DT-HALA-001,Dates,Halawi Dates,,200g,224,active,source: Amazon India ₹224.10/200g rounded (2024-10-19)
+DT-HALA-002,Dates,Halawi Dates,,1kg,899,active,source: Amazon India ₹899.10/1kg rounded (2024-10-19)
+DB-BITE-001,Date-Based Products,Date Bites,,160g,360,active,source: Act 2 ₹45/piece x 8 pieces; Amazon 160g pack (2024-10-19)
+DB-TRMX-001,Date-Based Products,Trail Mix,,25g,49,active,From Act 2 entry tier
+DL-SYRP-001,Date Line Products,Date Syrup,,350ml,649,active,From Act 1 hero section
+DL-DPOW-001,Date Line Products,Date Powder,,350g,413,active,source: https://www.bigbasket.com/pd/40316956/flyberry-gourmet-date-powder-350-g/ (2024-10-19)
+DL-HZSP-001,Date Line Products,Hazelnut Chocolate Spread,,350g,649,active,From Act 1 hero section
+EN-MACA-001,Exotic Nuts,Macadamia Nuts,,250g,1399,active,From Act 1 hero section
+EN-PECN-001,Exotic Nuts,Pecan Nuts,,250g,1199,active,From Act 1 hero section
+EN-BRAZ-001,Exotic Nuts,Brazil Nuts,,100g,399,active,source: https://www.amazon.in/Flyberry-Gourmet-Premium-Brazil-Nuts/dp/B085XJQQ85 (2024-10-19)
+EN-BRAZ-002,Exotic Nuts,Brazil Nuts,,200g,798,active,source: https://www.amazon.in/Flyberry-Gourmet-Premium-Brazil-Nuts/dp/B089KN5WSD pack of 2x100g (2024-10-19)
+EN-HAZN-001,Exotic Nuts,Hazelnuts,,100g,249,active,source: Flyberry website ₹249/100g premium (2024-10-19)
+EN-PINE-001,Exotic Nuts,Pine Nuts,,100g,880,active,source: Flyberry website ₹880/100g without shell (2024-10-19)
+EN-WALN-001,Exotic Nuts,Walnuts,,75g,127,active,source: https://www.amazon.in/Flyberry-Gourmet-Premium-Walnuts-75g/dp/B0861BDDLL (2024-10-19)
+EN-WALN-002,Exotic Nuts,Walnuts,,100g,160,active,source: Flyberry website ₹160/100g 4 piece (2024-10-19)
+CH-OKRA-001,Vacuum-Fried Chips,Okra Chips,,20g,49,active,From Act 1 hero section
+CH-CKPE-001,Vacuum-Fried Chips,Chickpea Crisps,,20g,49,active,Assumed parity with Okra single-serve
+CH-BANA-001,Vacuum-Fried Chips,Banana Chips,,20g,49,active,Assumed parity with Okra single-serve
+CH-BEET-001,Vacuum-Fried Chips,Sweet Beet Chips,,20g,49,active,Assumed parity with Okra single-serve
+CH-TARO-001,Vacuum-Fried Chips,Spiced Taro Chips,,20g,49,active,Assumed parity with Okra single-serve
+CH-COCO-001,Vacuum-Fried Chips,Toasted Coconut Chips,,20g,49,active,Assumed parity with Okra single-serve
+SE-CHIA-001,Seeds,Chia Seeds,,150g,199,active,source: https://flyberry.in/products/flyberry-chia-seeds (2024-10-19)
+SE-PUMP-001,Seeds,Pumpkin Seeds,,150g,90,active,source: Flyberry website ₹90/100g = ₹135/150g approx (2024-10-19)
+SE-SUNF-001,Seeds,Sunflower Seeds,,150g,179,active,source: Flyberry website (2024-10-19)
+SE-WATM-001,Seeds,Watermelon Seeds,,150g,129,active,source: Flyberry website (2024-10-19)
+BR-STWB-001,Berries,Strawberries,,100g,320,active,source: Flyberry website ₹320/100g (2024-10-19)
+BR-STWB-002,Berries,Strawberries,,250g,799,active,source: https://www.amazon.in/Flyberry-Dehydrated-Strawberry-250-500/dp/B01MZF6ALC (2024-10-19)
+BR-BLCK-001,Berries,Blackcurrants,,100g,280,active,source: https://www.amazon.in/Flyberry-Gourmet-Premium-Dried-Blackcurrant/dp/B085XJSVF9 (2024-10-19)
+BR-BLUE-001,Berries,Blueberries,,100g,280,active,source: Flyberry website ₹280/100g apple juice infused (2024-10-19)
+BR-CHER-001,Berries,Cherries,,100g,400,active,source: Flyberry website Cheery Cherries apple juice infused (2024-10-19)
+BR-CHER-002,Berries,Cherries,,400g,1599,active,source: Flyberry website pack of 4x100g (2024-10-19)
+BR-CRAN-001,Berries,Cranberries,,100g,249,active,source: https://www.bigbasket.com/pd/40192040/flyberry-classic-cranberries-100-g/ (2024-10-19)
+BR-RASP-001,Berries,Raspberries,,100g,399,active,source: https://www.bigbasket.com/pd/40192042/flyberry-raspberries-100-g/ (2024-10-19)
+BR-LING-001,Berries,Lingonberries,,100g,340,active,source: Flyberry website ₹340/100g (2024-10-19)
+BR-MIXD-001,Berries,Mixed Dried Fruits,,,pending,No specific product found; may be category placeholder not actual SKU (2024-10-19)
+DF-APRI-001,Dried Fruits,Apricots,Turkish,200g,279,active,source: https://www.bigbasket.com/pd/40073698/flyberry-dried-turkish-apricots-200-g/ (2024-10-19)
+DF-TFIG-001,Dried Fruits,Turkish Figs,,200g,699,active,source: Flyberry website ₹220/100g (2024-10-19)
+DF-AFIG-001,Dried Fruits,Afghani Figs,,200g,625,active,source: https://www.amazon.in/Flyberry-Gourmet-Premium-Afghani-200g/dp/B08CF18JGB (2024-10-19)
+DF-AFIG-002,Dried Fruits,Afghani Figs,,400g,1199,active,source: https://www.kindlife.in/fabulous-figs-afghani-400-g/ (2024-10-19)
+DF-AFIG-003,Dried Fruits,Afghani Figs,,500g,1499,active,source: https://www.amazon.in/Flyberry-Gourmet-Premium-Afghani-Figs/dp/B08BZTS78R (2024-10-19)
